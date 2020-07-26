@@ -1,2 +1,2 @@
 # Multiclass-AL-HSIC-using-ELM-SVM-KNN-LORSAL
-The demo is impemetned unisg Indain Pines Dataset and partially associated with the following papers: "Spatial Prior Fuzziness Pool-Based Interactive Classification of Hyperspectral Images" and "Multiclass Non-Randomized Spectral–Spatial Active Learning for Hyperspectral Image Classification".
+The demo is impemetned unisg Indain Pines Dataset on which KNN and ELM classifiers are traied from the range of 1-20 NN and 1-500 Hiden Neurons, and partially associated with the following papers: "Spatial Prior Fuzziness Pool-Based Interactive Classification of Hyperspectral Images" and "Multiclass Non-Randomized Spectral–Spatial Active Learning for Hyperspectral Image Classification".
