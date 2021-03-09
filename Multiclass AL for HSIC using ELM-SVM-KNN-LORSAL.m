@@ -1,10 +1,6 @@
 % Author : Muhammad Ahmad (Ph.D.)
 % Date   : 26/07/2020
 % Email  : mahmad00@gmail.com
-% Reference: Multiclass Non-Randomized Spatial-Spectral ...
-% Active Learning for Hyperspectral Image Classification
-% Spectral Angle Mapper and Metric Distance Functions shall be...
-% provided in short time.
 %% Clear and Close Everything
 clc; clear; close all;
 %% Warning off
